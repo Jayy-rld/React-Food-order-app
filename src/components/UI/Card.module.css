@@ -1,0 +1,13 @@
+.card {
+  padding: 1rem;
+  border-radius: 14px;
+  background: linear-gradient(
+    48deg,
+    rgba(186, 216, 226),
+    rgba(208, 229, 236),
+    rgb(236, 208, 208),
+    rgb(210, 236, 208)
+  );
+  backdrop-filter: blur(30px);
+  opacity: 0.6;
+}
